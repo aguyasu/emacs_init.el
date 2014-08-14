@@ -1,0 +1,14 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("service.wi2.ne.jp"
+  [url-cookie "SSID" "449bce02be609c22bd1ac5406aae0d9c" "Tue, 12 Aug 2014 12:53:14 GMT" "/" "service.wi2.ne.jp" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
